@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  * Main console application for Part 1, Part 2 and Part 3.
  * Part 2 and Part 3 only become available after a successful login.
+ * Added arrays for sent, stored and disregarded messages.
  */
 public class Main {
 
