@@ -11,6 +11,7 @@ import java.util.Scanner;
  * Part 2 and Part 3 only become available after a successful login.
  * Added arrays for sent, stored and disregarded messages.
  * Implemented stored messages menu and reporting features.
+ * Added search functionality for message IDs and recipients.
  */
 public class Main {
 
