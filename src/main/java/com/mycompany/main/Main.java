@@ -13,7 +13,8 @@ import java.util.Scanner;
  * Implemented stored messages menu and reporting features.
  * Added search functionality for message IDs and recipients.
  * Implemented longest stored message retrieval.
- * Added message hash deletion functionality
+ * Added message hash deletion functionality.
+ * Created Part 3 unit tests and final POE integration.
  */
 public class Main {
 
