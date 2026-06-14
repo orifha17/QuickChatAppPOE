@@ -13,6 +13,7 @@ import java.util.Scanner;
  * Implemented stored messages menu and reporting features.
  * Added search functionality for message IDs and recipients.
  * Implemented longest stored message retrieval.
+ * Added message hash deletion functionality
  */
 public class Main {
 
