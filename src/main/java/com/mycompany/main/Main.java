@@ -12,6 +12,7 @@ import java.util.Scanner;
  * Added arrays for sent, stored and disregarded messages.
  * Implemented stored messages menu and reporting features.
  * Added search functionality for message IDs and recipients.
+ * Implemented longest stored message retrieval.
  */
 public class Main {
 
